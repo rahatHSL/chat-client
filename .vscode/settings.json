@@ -1,0 +1,10 @@
+{
+    "editor.scrollPredominantAxis": false,
+    "editor.scrollBeyondLastLine": true,
+    "editor.stickyScroll.maxLineCount": 2,
+    "editor.mouseWheelScrollSensitivity": 1,
+    "editor.scrollbar.scrollByPage": false,
+    "editor.scrollBeyondLastColumn": 1,
+    "editor.fastScrollSensitivity": 2,
+    "terminal.integrated.scrollback": 1
+}
